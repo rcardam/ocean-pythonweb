@@ -1,0 +1,8 @@
+ngrok http 5000
+
+CRIAR O BANCO DE DADOS
+1 - criamos o arquivo esquema.sql
+2 - rodamos no terminal
+    sqlite3 blog.db < esquema.sql
+3 - vai aparecer no explorer o arquivo do bando de dados mas o arquivo não é editável
+
